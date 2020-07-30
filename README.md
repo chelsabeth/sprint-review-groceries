@@ -1,6 +1,9 @@
 # sprint-review-groceries
 a little sprint review for you ♥️
 
+## Youtube Tutorial for this Repo 👇
+https://youtu.be/bDV4X31OPbc
+
 ## Welcome developers! Please follow these steps to get started 👇
 
 - [ ] fork & clone this project 
