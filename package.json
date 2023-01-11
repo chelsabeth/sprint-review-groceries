@@ -19,7 +19,7 @@
   "homepage": "https://github.com/chelsabeth/sprint-review-groceries#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "knex-cleaner": "^1.3.0",
     "sqlite3": "^4.2.0"
   },
